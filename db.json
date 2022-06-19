@@ -1,0 +1,20 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "title": "smartphone",
+      "price":30
+    },
+    {
+      "id": 2,
+      "title": "watch",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "title": "shirt",
+      "price": 30
+    }
+  ]
+
+}
